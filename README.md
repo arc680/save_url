@@ -10,7 +10,9 @@ URLを保存するmikutterプラグイン
 ## いるもの
 SQLite3関係のがいります
 > sudo apt-get install libsqlte3-dev ruby1.9.1-dev
+
 > gem install sqlite3
+
 とかしておけばいいです
 
 
